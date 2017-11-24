@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, my name is Samuel Engbom and I'm currently studying my first year at Linnéuniversitetet.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My interests are largely tech based, I do however enjoy a round of golf every now and then during summers.
+Ever since I was young I held interest for computers and while I spent most of my time playing games on them I was still intrigued by the inner workings and how it all comes together. Hence why I'm now studying about it!.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My family consists of my mom, dad and 2 brothers aswell as 2 dogs. I am the middle child in the family and pretty much the only one with interests in computer programming. Our dogs mean the world to me and I very much enjoy spending time with them.
