@@ -1,0 +1,20 @@
+# humanstxt.org
+
+#TEAM
+
+Designer & developer: Samuel Engbom <se222xv@student.lnu.se>
+Site: https://se222xv.github.io/
+Location: Kalmar, Sweden
+
+#THANKS
+
+Lectors: Johan Leitet, Mats Loock, John Häggerud, Jacob Lindehoff
+
+#TECHNOLOGY
+
+Jekyll
+Sass
+HTML
+CSS
+Javascript
+github
